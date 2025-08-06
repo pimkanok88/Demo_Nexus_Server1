@@ -1,5 +1,5 @@
 import pandas as pd
-from pages.10 📋 กรอกรายรับ.py import filter_income_data_by_project
+from pages.10_กรอกรายรับ import filter_income_data_by_project
 
 def test_filter_income_data_by_project():
     data = {
